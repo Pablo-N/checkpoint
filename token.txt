@@ -1,7 +1,0 @@
-token Pablo :ghp_0vi6qdi1wSpq44fELKtvIZXbEtHWS42XPW
-token Leidy :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
-<<<<<<< HEAD
-token Yuri  :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
-=======
-token Hermis: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
->>>>>>> c867d4ee98ec9a72df024f39bedba61d0562f3bd
